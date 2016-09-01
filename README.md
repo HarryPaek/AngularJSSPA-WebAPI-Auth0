@@ -1,1 +1,1 @@
-# AngularJSSPA-WebAPI-Auth0
+# Authenticating AngularJS SPA with WebAPI and Auth0
